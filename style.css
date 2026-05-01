@@ -19,7 +19,7 @@ h1{
     }
 
     button:hover{
-        background-color: yellow;
+        background-color: rgb(250, 250, 248);
     } 
     
     .result{
